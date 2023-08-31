@@ -1,9 +1,9 @@
 ---
-title: Working with the Gradle registry
+title: Working with the Gradle registry.
 intro: 'You can configure Gradle to publish packages to the {% data variables.product.prodname_registry %} Gradle registry and to use packages stored on {% data variables.product.prodname_registry %} as dependencies in a Java project.'
 product: '{% data reusables.gated-features.packages %}'
 redirect_from:
-  - /articles/configuring-gradle-for-use-with-github-package-registry
+  - /articles/configuring-gradle-for-use-with-github-package-registry.
   - /github/managing-packages-with-github-package-registry/configuring-gradle-for-use-with-github-package-registry
   - /github/managing-packages-with-github-packages/configuring-gradle-for-use-with-github-packages
   - /packages/using-github-packages-with-your-projects-ecosystem/configuring-gradle-for-use-with-github-packages
